@@ -52,4 +52,5 @@
 [猫·仁波切](https://andelf.github.io/) | <https://andelf.github.io/atom.xml>
 [煲仔饭](http://ivoryxiong.org/) | <http://ivoryxiong.org/feed.xml>
 [Shaune](http://shaune.com.au/) | <http://shaune.com.au/feed/>
+[Blang](http://blog.cnbang.net/) | 
 
